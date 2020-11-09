@@ -2,4 +2,5 @@ added 2nd file
 making some changes
 we r cloning
 remote to local
-commiting changes
+committing changes
+                       
